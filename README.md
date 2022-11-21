@@ -81,4 +81,4 @@ d711be23-73d9-4fbd-92f5-fe9ec7044d6d
 ```
 ## Authors
 Sedoo Bitto [SedooBitto](https://github.com/sedoobitto)
-Prince Letsyo
+ & Prince Letsyo
